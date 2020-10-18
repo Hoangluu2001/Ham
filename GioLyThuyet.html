@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // let arr1 = prompt(" nhap mang")
+    // function minArray(arr) {
+    //     if(arr.length === 0)
+    //         return -1;
+    //     let min = arr[0];
+    //     for (let i = 1; i < arr.length; i++ ){
+    //         if (arr [i] < min ){
+    //             min = arr[i];
+    //         }
+    //     }
+    //     return min;
+    // }
+    // let min = minArray(arr1);
+    // alert("gia tri nho nhat la :"+min);
+
+    let arr1 = prompt(" nhap mang")
+    function maxArray(arr) {
+        if(arr.length === 0)
+            return +1;
+        let max = arr[0];
+        for (let i = 1; i < arr.length; i++ ){
+            if (arr [i] > max ){
+                max = arr[i];
+            }
+        }
+        return max;
+    }
+    let max = maxArray(arr1);
+    alert("gia tri lon nhat la :"+max)
+</script>
+
+</body>
+</html>
