@@ -19,8 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e30c0a10-55fd-46fc-8b33-a53ccd433a43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3984b99a-0beb-4923-a8d2-b4612fc4c7cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +42,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1iwPsLAMwZcUvrfGYeT20ggiKp0" />
+  <component name="ProjectId" id="1j4uq19aRI7aWRFg9wboVpeaQSN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +54,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LuyenTap02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FeetVaMeters.html" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,16 +67,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e30c0a10-55fd-46fc-8b33-a53ccd433a43" name="Default Changelist" comment="" />
-      <created>1602815886884</created>
+      <changelist id="3984b99a-0beb-4923-a8d2-b4612fc4c7cb" name="Default Changelist" comment="" />
+      <created>1603075872044</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602815886884</updated>
-      <workItem from="1602815887982" duration="4154000" />
-      <workItem from="1602829993735" duration="7607000" />
-      <workItem from="1603013204129" duration="1129000" />
-      <workItem from="1603020867347" duration="1306000" />
-      <workItem from="1603070592824" duration="4856000" />
+      <updated>1603075872044</updated>
+      <workItem from="1603075873106" duration="6323000" />
     </task>
     <servers />
   </component>
@@ -87,13 +91,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1603075870372">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1603082601446">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603075870372" />
-    <state x="579" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602834608634">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="579" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602834608634" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603082601446" />
   </component>
 </project>
