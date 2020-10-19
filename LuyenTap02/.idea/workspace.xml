@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3984b99a-0beb-4923-a8d2-b4612fc4c7cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bai8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j4uq19aRI7aWRFg9wboVpeaQSN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603075872044</updated>
       <workItem from="1603075873106" duration="6323000" />
+      <workItem from="1603089307577" duration="1005000" />
     </task>
     <servers />
   </component>
@@ -89,6 +84,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1603082601446">
